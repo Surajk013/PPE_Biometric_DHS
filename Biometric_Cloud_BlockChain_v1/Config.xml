@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Config>
+	
+	
+	<server id="2">
+		<protocol>http</protocol>
+		<ip>localhost</ip>
+		<port>8080</port>
+		<app>Biometric_Cloud_BlockChain</app>
+		<program>verification</program>
+	</server>
+	
+</Config>
